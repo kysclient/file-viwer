@@ -31,8 +31,6 @@ Typed의 ResourceList를 간단하게 구현해봅니다.
 자세한 설정 및 배포 지침은 [README.md](README.md) 파일을 참조하세요.
 
 
-## Conclusion
 
-My Awesome Project is a [conclude the project's significance].
 
 ---
