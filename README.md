@@ -1,4 +1,3 @@
-# Business Campus 프론트엔드 과제
 환영합니다! 이 README에서는 프로젝트를 실행하고 사용하는 방법을 안내합니다.
 
 ![result](./public/homepage.png)
