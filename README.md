@@ -36,6 +36,3 @@ npm run dev
 yarn vite
 ```
 
-## Feat
-
-- typed-design-system 모듈을 사용하던 도중 emotion 버전 11이상을 사용했을 경우, 디자인시스템 이모션컨텍스트 임포트 구문에서 에러가 발생합니다. 정확한 테스트는 해보지 못했으며, 확인 필요해보입니다.
